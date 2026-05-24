@@ -1,5 +1,5 @@
 # Projeto_Veganismo_RJ
-Problemática
+**Problemática**
 
 O veganismo vem crescendo significativamente nos últimos anos impulsionado por fatores relacionados à sustentabilidade, saúde e consumo consciente. No Rio de Janeiro, observa-se um aumento do interesse por restaurantes e produtos veganos, especialmente através de buscas realizadas na internet.
 
@@ -7,10 +7,23 @@ Apesar desse crescimento, muitos consumidores ainda enfrentam dificuldades para 
 
 A análise de dados permite identificar padrões de interesse, comportamento do consumidor e tendências regionais. Neste projeto, foram utilizados dados públicos do Google Trends para analisar o crescimento das buscas relacionadas ao mercado vegano no Rio de Janeiro.
 
-Objetivo
+**Objetivo**
 
 Analisar o crescimento do interesse pelo veganismo no Rio de Janeiro através de dados públicos relacionados a buscas por restaurantes e produtos veganos.
 
 Relevância do Projeto
 
 A análise de dados aplicada ao mercado vegano pode auxiliar empresas e empreendedores a compreender melhor a demanda dos consumidores, permitindo a expansão de produtos e serviços voltados ao público vegano.
+
+**Fontes de Dados**
+_Google Trends_: descrição
+
+Ferramenta utilizada para identificar tendências de busca relacionadas ao veganismo no Rio de Janeiro.
+
+Tipo de dado: dados estruturados.
+
+Método de coleta: download direto em formato CSV.
+
+Dados coletados: termos pesquisados;
+interesse de busca;
+crescimento percentual.
